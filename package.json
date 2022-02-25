@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/malik302690.lwc-l024me46",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve CXsCPHIrj36w4CZhaPBB --open"
+  }
+}
